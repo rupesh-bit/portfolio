@@ -1,0 +1,47 @@
+import React from 'react'
+import {motion} from 'framer-motion'
+import { FaReact } from "react-icons/fa";
+import { useState } from 'react';
+function Landing() {
+  
+      
+
+  return (
+    <div className=  'flex justify-center items-center h-screen bg-slate-300 pt-20 relative' id="home" >
+    
+      <div className=' h-3/4  sm:w-2/3 w-11/12 rounded-ss-3xl   bg-slate-500 p-3'>
+        <div className='flex '>
+         <div>
+
+           <div className='xl:text-8xl lg:text-7xl text-5xl font-semibold tracking-tighter  xl:leading-[5rem] uppercase mb-16'>
+                React-<br/> Frontend <br/>developer<br/> 
+            </div>
+           <span className=' text-white font-semibold ml-10'>
+               " hi ! I am rupesh kumar ,a Passionate frontend developer skilled in crafting delightful user experiences. "
+            </span>
+           
+          </div>
+          <div >
+            <img src='profil.jpg' className=' rounded-full border-slate-300 md:border-[10px] border-0' />
+          </div>
+       </div>
+        <div className='flex justify-center  mt-14'>
+            <p className='font-bold  mx-3 lg:mx-8'>tech. stack</p> ||
+            <img src='tail.png' className='h-6 mx-3 lg:mx-8 '/>||
+            <img src='html.png' className='h-8 mx-3  lg:mx-8'/>||
+            <FaReact className='text-4xl text-[#7DDFFF]  mx-3 lg:mx-8'/>
+           
+
+        </div>
+        <div>
+
+        </div>
+        
+      </div>
+      
+    
+    </div>
+  )
+}
+
+export default Landing
