@@ -49,7 +49,7 @@ function About() {
 
                 </li>
 
-                <li>uhu</li>
+              
             </ol>
          
     
