@@ -5,6 +5,7 @@
 import Anime from "./components/Anime"
 import About from "./components/About"
 import Sanime from "./components/Sanime"
+  
 
   function App(params) {
   
