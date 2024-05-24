@@ -27,9 +27,9 @@ function Landing() {
        </div>
         <div className='flex justify-center  mt-14'>
             <p className='font-bold  mx-3 lg:mx-8'>tech. stack</p> ||
-            <img src='tail.png' className='h-6 mx-3 lg:mx-8 '/>||
-            <img src='html.png' className='h-8 mx-3  lg:mx-8'/>||
-            <FaReact className='text-4xl text-[#7DDFFF]  mx-3 lg:mx-8'/>
+            <img src='tail.png' className='h-6 mx-3 lg:mx-8 logo'/>||
+            <img src='html.png' className='h-8 mx-3  lg:mx-8 logo'/>||
+            <FaReact className='text-4xl text-[#7DDFFF]  mx-3 lg:mx-8 logo'/>
            
 
         </div>
