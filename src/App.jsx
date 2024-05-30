@@ -12,7 +12,7 @@ import Sanime from "./components/Sanime"
     
     return(<>
     
-     <div className="bg-blue-300  overflow-x-hidden  min-h-screen ">
+     <div className="bg-blue-200  overflow-x-hidden  min-h-screen ">
         <div className="h-[24px] hidden md:block"><Navbar/></div>
         <Landing/>
         <Anime/>
