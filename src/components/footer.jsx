@@ -8,7 +8,7 @@ function Footer() {
  
 
   return (
-    <div className='w-full bg-slate-300 min-h-screen flex justify-evenly ' id='contact'  >
+    <div className='w-full bg-slate-300 min-h-screen flex justify-start sm:justify-evenly pl-6 sm:pl-0 ' id='contact'  >
 
      <div className='hidden  w-1/2 h-screen p-14 lg:flex flex-col justify-between'>
       <span className='text-7xl font-extrabold tracking-tighter '>
@@ -55,7 +55,7 @@ function Footer() {
            <a href='#home'><span className='underline'>Home</span></a><br/>
            <a href='#project'><span className='underline'>Project</span></a><br/>
            <a href='#about'><span className='underline'>About</span></a><br/>
-           <a href='#contact'><span className='underline'>Contact</span></a>
+           <a href='#contact'><span className='underline'>Contact </span></a>
            </div>
 
         </div>
