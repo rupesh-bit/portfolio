@@ -83,7 +83,7 @@ function Project() {
                 </li>
                 <li className='my-3'>
                     <span className='font-bold'>Technologies Used:</span>
-                    - Built the frontend with React and styled using CSS/SCSS, creating a responsive and visually appealing user interface.
+                    - Built the frontend with React and styled using tailwind, creating a responsive and visually appealing user interface.
                 </li>
                 </div>
     
