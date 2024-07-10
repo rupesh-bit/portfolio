@@ -45,7 +45,7 @@ function Footer() {
            </div>
            <div className='text-sm mt-20'>
                N:<br/>
-            <a><span className='underline'>8295009766</span></a>
+            <a><span className='underline'>9876543210</span></a>
             
            </div>
         </div>
