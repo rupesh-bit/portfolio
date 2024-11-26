@@ -13,11 +13,11 @@ function Landing() {
         <div className='flex '>
          <div>
 
-           <div className='xl:text-8xl lg:text-7xl text-5xl font-semibold tracking-tighter  xl:leading-[5rem] uppercase mb-16'>
-                React-<br/> Frontend <br/>developer<br/> 
+           <div className='xl:text-8xl lg:text-7xl text-5xl font-bold tracking-tighter  xl:leading-[5rem] uppercase mb-16'>
+                full-stack <br/>developer<br/> 
             </div>
            <span className=' text-white font-semibold ml-10'>
-               " hi ! I am rupesh kumar ,a Passionate frontend developer skilled in crafting delightful user experiences. "
+               " hi ! I am rupesh kumar ,a Passionate Full-Stack developer skilled in crafting delightful user experiences and
             </span>
            
           </div>
@@ -27,10 +27,10 @@ function Landing() {
        </div>
         <div className='flex justify-center  mt-14'>
             <p className='font-bold  mx-3 lg:mx-8'>tech. stack</p> ||
-            <img src='tail.png' className='h-6 mx-3 lg:mx-8 logo'/>||
-            <img src='html.png' className='h-8 mx-3  lg:mx-8 logo'/>||
-            <FaReact className='text-4xl text-[#7DDFFF]  mx-3 lg:mx-8 logo'/>
-           
+            <img src='Mongodb.png' className='h-6 mx-3 lg:mx-8 logo'/>||
+            <img src='Exs.png' className='h-8 mx-3  lg:mx-8 logo'/>||
+            <FaReact className='text-4xl text-[#7DDFFF]  mx-3 lg:mx-8 logo'/>||
+            <img src='node.svg' className='h-8 mx-3  lg:mx-8 logo'/>
 
         </div>
         <div>
@@ -45,3 +45,5 @@ function Landing() {
 }
 
 export default Landing
+
+//
